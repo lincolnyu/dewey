@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/Dewey/obj/Debug
+/Dewey/bin/Debug
+/DeweyEF/bin/Debug
+/DeweyEF/obj/Debug
+*.exe
