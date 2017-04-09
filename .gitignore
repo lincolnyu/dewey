@@ -3,8 +3,12 @@
 ################################################################################
 
 /packages
-/Dewey/obj/Debug
-/Dewey/bin/Debug
-/DeweyEF/bin/Debug
-/DeweyEF/obj/Debug
+/Dewey/bin/
+/Dewey/obj/
+/DeweyEF/bin/
+/DeweyEF/obj/
+/Dewey.Herodotus/bin/
+/Dewey.Herodotus/obj/
+/DeweyEF.Herodotus/bin/
+/DeweyEF.Herodotus/obj/
 *.exe
